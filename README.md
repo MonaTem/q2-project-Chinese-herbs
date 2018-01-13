@@ -1,1 +1,1 @@
-# q2-project-Chinese-herbs
+Q2 Project Chinese Herbs Database

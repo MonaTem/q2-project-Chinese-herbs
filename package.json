@@ -1,0 +1,26 @@
+{
+  "name": "q2-project-chinese-herbs",
+  "version": "1.0.0",
+  "description": "Q2 Project Chinese Herbs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonaTem/q2-project-Chinese-herbs.git"
+  },
+  "keywords": [
+    "TCM",
+    "Chinese",
+    "herbs",
+    "herbal",
+    "formulas"
+  ],
+  "author": "Mona Temchin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MonaTem/q2-project-Chinese-herbs/issues"
+  },
+  "homepage": "https://github.com/MonaTem/q2-project-Chinese-herbs#readme"
+}
