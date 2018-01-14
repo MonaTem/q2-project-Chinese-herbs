@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Macondo');
+
+
+body {
+  background-color: #cc0000;
+  font-family: 'Macondo', cursive;
+  color: black;
+}
+
+.list-group-item {
+  background-color: #cc0000;
+  font-family: 'Macondo', cursive;
+  color: white;
+}
+
+.heading {
+  padding-left: 400px;
+  padding-top: 20px;
+}
+
+.yinyang {
+  padding-left: 700px;
+  padding-top: 50px;
+
+
+}
